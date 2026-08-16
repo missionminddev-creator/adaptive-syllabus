@@ -1,4 +1,4 @@
-# Adaptive Syllabus
+# adaptive Syllabus
 
 A concept-level adaptive learning platform that transforms a structured syllabus into personalized learning paths.
 
